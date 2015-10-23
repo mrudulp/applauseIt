@@ -1,0 +1,7 @@
+<suite name="WholeFoodsMarket_Suite" verbose="1" parallel="classes">
+	<test name="search_recipe" preserve-order="true">
+		<classes>
+			<class name ="com.applause.auto.test.TestSample"/>
+		</classes>
+	</test>
+</suite>
